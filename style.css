@@ -83,19 +83,19 @@ hr{
 
 .bottomcloud1{
   position: absolute;
-  left: 200px;
+  left: 200rem;
 }
 
 .bottomcloud2{
   position: absolute;
-  left: 1000px;
-  top: 400px;
+  left: 1000rem;
+  top: 400rem;
 }
 
 .topcloud{
   position: absolute;
-  left: 850px;
-  top: 50px;
+  left: 850rem;
+  top: 50rem;
 }
 
 .contact-message{
