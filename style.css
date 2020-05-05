@@ -137,6 +137,7 @@ hr{
 @media (max-width: 1024px){
 	.topcloud{
 		position: relative;
+		margin-left: 400px;
 	}
 	.bottomcloud1{
 		position: relative;
