@@ -133,3 +133,16 @@ hr{
 	position:relative;
 	top:1px;
 }
+
+@media (max-width: 1024px){
+	.topcloud{
+		position: relative;
+	}
+	.bottomcloud1{
+		position: relative;
+	}
+	.bottomcloud2{
+		position: relative;
+	}
+}
+	
